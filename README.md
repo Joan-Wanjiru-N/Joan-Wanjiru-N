@@ -21,7 +21,7 @@
 Hi there 👋
 <p>I am <b>Joan Njeri, a data analyst.</b>
  </br>
-Currently working as a Business Analyst at Sama.
+Currently working as a Data Analyst / Data Engineer at Spartan Shield Limited.
 I desire to derive information from the data for better insights for the end users. I'm always looking for new opportunities to expand my knowledge in analytics.
 </p>
 Some highlights:

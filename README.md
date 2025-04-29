@@ -19,24 +19,24 @@
 ### About me!
 ---
 Hi there 👋
-<p>I am <b>Joan Njeri, a data analyst.</b>
+<p>I am <b>Joan Njeri, a data Engineer.</b>
  </br>
-Currently working as a Data Analyst / Data Engineer at Spartan Shield Limited.
-I desire to derive information from the data for better insights for the end users. I'm always looking for new opportunities to expand my knowledge in analytics.
+Currently working as a Data Engineer at Rainforest Alliance.
+I'm passionate about transforming chaotic data into clear, actionable insights. I'm always eager to grow my expertise and explore new opportunities in analytics and data engineering
 </p>
 Some highlights:
 
-- 🌱 I’m currently learning ML with the guide of Microsoft learn and planning to take **DP 100 Exam: Designing and Implementing a Data Science Solution on Azure**
+- 🌱 I'm currently learning DBT and database management, with a focus on optimization
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Joan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joan-wanjiru-n-287a95180/)
 
-- ⚡ Fun fact: I love cooking so is eating good food 😄
+- ⚡ Fun fact: I love cooking and find joy in feeding people delicious, home-cooked meals😄
 
 </br>
 
 ### :hammer_and_wrench: Skills:
-- **Proficient:** Python, SQL, Power BI, Tableau, Advanced Excel/ G sheets, Data studio, SSIS, Azure
-- **Moderate:** SSAS, GCP, AWS
+- **Proficient:** Python, SQL,Azure Data Dactory, Docker, Power BI, Advanced Excel/ G sheets, Data studio, SSIS, Cloud(Azure & AWS)
+- **Moderate:** SSAS, GCP
 - **Database:** SQL Server, MySQL, Big query, Postgres, Oracle, Mongo DB
 
 ---
